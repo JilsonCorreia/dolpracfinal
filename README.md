@@ -22,7 +22,9 @@ uname
 sudo apt-get update
 ```
 
-# git fetch push pull merge
+#Global Information Tracker
+2005 by Google
+#git fetch push pull merge
 ```
 git config --global user.name "your_username"
 git config --global user.email "your_email_address@example.com"
