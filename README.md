@@ -1,3 +1,23 @@
+#git push pull
+git config --global user.name "JilsonCorreia"
+git config --global user email "jilsoncorreia102@gmail.com"
+
+git clone 
+git status
+#create new file in c:
+git add .
+git commit -m "first"
+git status
+git push origin master
+#create new file on GitHub
+git fetch origin master
+git merge origin/master
+
+
+
+
+
+
 # 20 commands of linux
 ```
 ifconfig
